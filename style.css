@@ -4,18 +4,36 @@ body{
 h1{
   color: #006D77;
   font-size: 400%;
-  text-decoration: underline;
-  text-decoration-color: #28AFB0
+  text-decoration: underline
 }
 p{
   color: #006D77;
   font-size:200%
 }
 h3{
-  color: #83C5BE;
-  font-size:150%;
-  text-decoration: underline;
-  text-decoration-color: #8FA6CB;
+  color: #B6DCFE;
+  font-size: 200%;
+  text-decoration:underline;
+    
+}
+ul{
+   list-style-type: none;
+  text-align:center;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #B4E33D;
+  font-family: "Copperplate", Fantasy;
+  text-decoration: none;
+  border:double;  
+}
+li a:hover{
+  background-color:#006D77;
+}
   
 }
 img{
