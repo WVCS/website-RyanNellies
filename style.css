@@ -16,6 +16,15 @@ h3{
   text-decoration:underline;
     
 }
+h4{
+  color: #A6CFD5;
+  font-size: 150%;
+}
+h2{
+  color: #26408B;
+  font-size: 275%;
+  text-decoration: underline;
+}
 ul{
    list-style-type: none;
   text-align:center;
